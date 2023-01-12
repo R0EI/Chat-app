@@ -1,1 +1,1 @@
-small python chat application using flask
+Small python chat application using flask
